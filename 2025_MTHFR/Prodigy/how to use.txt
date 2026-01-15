@@ -1,0 +1,4 @@
+when using prodigy lig place prodigy_lig.py into:
+    prodigy-lig-main>src>
+
+This allows for analyzing an entire folder of PDBs, not just one
