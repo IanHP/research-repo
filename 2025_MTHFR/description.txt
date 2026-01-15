@@ -1,8 +1,10 @@
+Common_pose: allows determination of common poses, then analysis of present interactions (comes from discovery studio output)
+Create_MD: the general files requires to run NAMD simulation, and scripts to help setup pdb/psf
 DDG_function: creates graphs of rolling average impact of a residues mutation on function (from map) and structure (from DDG)
+HBond_analysis: allows finding all H-bond across trajectories
+ligand_pocket_distance: allows finding distance between pocket and ligand
 MD_analysis_prep: scripts that help with setting up MD outputs for analysis
 Prodigy: allows running of prodigy-lig and analysis, which predicts deltaG of ligand-protein interaction
 
 distance_hbond: allows finding distance between two atoms and strength of H-bonds
-ligand_pocket_distance: allows finding distance between pocket and ligand
 rmsx: allows finding RMSD and RMSF of trajectory
-VMD_hbond_extract: 
