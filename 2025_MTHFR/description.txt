@@ -8,3 +8,4 @@ Prodigy: allows running of prodigy-lig and analysis, which predicts deltaG of li
 
 distance_hbond: allows finding distance between two atoms and strength of H-bonds
 rmsx: allows finding RMSD and RMSF of trajectory
+base_graphs: a script that can be copied / pasted when making new graphs
