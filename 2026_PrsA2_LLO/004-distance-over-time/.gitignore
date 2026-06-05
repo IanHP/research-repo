@@ -1,0 +1,13 @@
+*.nc
+*.npy
+*.psf
+*.dcd
+*.pse
+*.prq
+*.pdb
+*.csv
+*.txt
+*.png
+*.gz
+*.zip
+*.pml
